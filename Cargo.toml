@@ -6,3 +6,5 @@ edition = "2021"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
+geng = { git = "https://github.com/kuviman/geng" }
+bevy_ecs = "0.10.1"
